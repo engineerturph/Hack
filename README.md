@@ -1,3 +1,3 @@
 # Hack
 
-Learning to hack for fun :D
+Learning ethical hacking for fun :D
